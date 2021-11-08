@@ -1,4 +1,4 @@
 # ExpansionLayout
 
-Lightweigt and customizable android library for expandable layout.
+Lightweigt android library for customizable expansion-layout.
 
